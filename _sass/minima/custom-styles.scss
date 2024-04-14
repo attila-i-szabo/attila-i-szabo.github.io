@@ -1,0 +1,26 @@
+
+
+.site-nav .menu > li {
+	display: inline-block;
+	position: relative;
+}
+
+/* Sub Menu */
+
+.site-nav .sub-menu a {
+	display: block;
+}
+
+
+.sub-menu {
+	border: 3px solid transparent;
+	display: none;
+}
+
+.sub-menu li {
+	display: block;
+}
+
+.site-nav li:hover > .sub-menu {
+	display: block;
+}

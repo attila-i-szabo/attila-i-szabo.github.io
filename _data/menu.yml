@@ -1,0 +1,8 @@
+- title: "CV"
+  href: "/cv/"
+  
+- title: "Research"
+  href: "/research/"
+  subcategories:
+    - subtitle: "Frustrated magnetism"
+      subhref: "/research/frustrated-magnets"

@@ -13,7 +13,7 @@ These properties are *emergent*, that is, they do not belong to a single atom, b
 Furthermore, interactions with their neighbours might completely change the behaviour of single atoms, and bring about new, collective properties.
 Developing techniques to explain such collective behaviour is one of the main challenges in theoretical physics.
 
-My research focuses on collective behaviour coming from strong interactions between *electrons* in a solid. This can often be described in terms of "quasiparticles", in which electrons move together to imitate a free particle. These quasiparticles, however, might be radically different from electrons. My favourite example is *fractionalisation*, where electrons "split up" into several quasiparticles, which look completely different from familiar particles:
+My research focuses on collective behaviour coming from strong interactions between *electrons* in a solid. This can often be described in terms of "quasiparticles", in which electrons move together to imitate a free particle. These quasiparticles, however, might be radically different from electrons. My favourite example is *fractionalisation*, where electrons "split up" into several quasiparticles, which may look completely different from familiar kinds of particle:
 
 * In the *fractional quantum Hall effect,* the electric charge of an electron splits between 3 (or 5, 7,...) particles, even though charge normally comes in integer multiples of the electron charge.
 * In *quantum spin liquids,* the charge and magnetism of the electron splits into two independent particles. This allows them, for instance, to show all magnetic properties of a metal, while not conducting electricity.

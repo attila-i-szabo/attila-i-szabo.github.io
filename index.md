@@ -5,4 +5,14 @@
 layout: page
 ---
 
-Lorem ipsum dolor sit amet
+Hi! I am a theoretical condensed-matter physicist.
+I am primarily interested in understanding exotic phenomena, such as *fractionalisation*, brought about by strong electronic correlations in materials.
+I pursue this goal using analytical and computational techniques, including *neural quantum states* and other machine-learning tools.
+
+Currently, I work as a postdoc at the [MPI-PKS](https://www.pks.mpg.de/) in Dresden.
+I will start as an Ambizione fellow at the [University of Zürich](https://www.physik.uzh.ch/) in September.
+
+<div>
+ <a href="research/frustrated_magnet"><img src="img/qsl.jpg" width="640"/></a>
+ <div style="position:absolute;top:8px;left:8px;"><h3>Frustrated magnetism</h3></div>
+</div>

@@ -6,7 +6,7 @@ permalink: /research/
 
 ## In plain English
 
-<p text-align="right"> *More is different.* (P. W. Anderson)</p>
+<p style="text-align: right"> <i>More is different.</i> (P. W. Anderson)</p>
 
 All materials are made up of the same ingredients: electrons float around atomic nuclei, bound to them by electromagnetic forces. These ingredients, however, give rise to an incredible variety of material properties: gases, liquids, and solids; insulators and conductors of electricity; magnetism; all of chemistry, and even life!
 These properties are *emergent*, that is, they do not belong to a single atom, but only to a large number of them: a single atom is neither solid, nor gas!

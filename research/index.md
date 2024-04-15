@@ -4,6 +4,9 @@ title: Research
 permalink: /research/
 ---
 
+
+{% include projects.html %}
+
 ## In plain English
 
 <p style="text-align: right"> <i>More is different.</i> (P. W. Anderson)</p>

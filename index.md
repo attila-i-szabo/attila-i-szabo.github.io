@@ -12,4 +12,6 @@ I pursue this goal using analytical and computational techniques, including *neu
 Currently, I work as a postdoc at the [MPI-PKS](https://www.pks.mpg.de/) in Dresden.
 I will start as an Ambizione fellow at the [University of Zürich](https://www.physik.uzh.ch/) in September.
 
+## [Research interests](/research/)
+
 {% include projects.html %}

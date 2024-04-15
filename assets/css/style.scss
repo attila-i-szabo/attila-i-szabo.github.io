@@ -1,4 +1,8 @@
-<style>
+---
+---
+
+@import "{{ site.theme }}";
+
 ul.projects {
  display: grid;
  grid-template-columns: repeat(auto-fill,minmax(245px,1fr)); 
@@ -24,5 +28,3 @@ div.project_inner {
 div.project_inner:hover {
  background-color: rgba(0,0,0,0.4);
 }
-</style>
-

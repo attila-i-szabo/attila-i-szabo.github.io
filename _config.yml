@@ -31,7 +31,7 @@ url: "https://attila-i-szabo.github.io" # the base hostname & protocol for your 
 github_username:  attila-i-szabo
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
   

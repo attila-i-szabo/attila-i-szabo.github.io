@@ -12,4 +12,4 @@ I pursue this goal using analytical and computational techniques, including *neu
 Currently, I work as a postdoc at the [MPI-PKS](https://www.pks.mpg.de/) in Dresden.
 I will start as an Ambizione fellow at the [University of Zürich](https://www.physik.uzh.ch/) in September.
 
-<div><a href="research/frustrated_magnet"><div style="position:relative;"><img src="img/qsl.jpg" width="240"/><div style="position:absolute;top:8px;left:8px;color:white;"><h3>Frustrated<br/>magnetism</h3></div></div></a></div>
+{% include projects.html %}

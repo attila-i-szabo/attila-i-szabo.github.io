@@ -12,7 +12,6 @@ ul.projects {
 }
 div.project_outer {
  position:relative;
- background-color:#dddddd;
 }
 div.project_inner {
  position:absolute;
@@ -24,11 +23,11 @@ div.project_inner {
  color:white;
  font-weight:bold;
  overflow-wrap: break-word;
+ background-color: rgba(0,0,0,0.15);
 }
 div.project_inner:hover {
  background-color: rgba(0,0,0,0.4);
 }
-
 h2 a {
 color: #111;
 }

@@ -4,6 +4,16 @@ title: Research
 permalink: /research/
 ---
 
+Please see [below](#in-plain-english) for a ~~non~~ less technical summary of my research interests.
+
+My research focuses on understanding exotic phenomena in **strongly-correlated-electron systems**.
+These are often brought about by constrained dynamics on complex energy landscapes, which obstruct conventional excitations in favour of **emergent gauge fields** coupled to **fractionalised quasiparticles**.
+Understanding such excitations raises many exciting questions, and places many traditional questions in condensed-matter physics in a new light.
+I am particularly interested in [**frustrated magnets**](/research/frustrated-magnet), in which competing interactions bring about unusual magnetic states, including **quantum spin liquids**, which show no conventional magnetic order.
+Their **topological order** offers a promising platform for fault-tolerant quantum computing, and offers insights into such central problems in condensed-matter physics as **high-temperature superconductivity in the cuprates**.
+
+I study these problems with a broad range of approaches. 
+
 
 {% include projects.html %}
 

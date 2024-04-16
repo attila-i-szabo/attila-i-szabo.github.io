@@ -34,3 +34,16 @@ h2 a {
 color: #111;
 }
 */
+
+.social-media-list li {
+ float: left;
+}
+
+.social-media-list .username {
+ display: none;
+}
+
+
+.svg-icon { width: 1.5rem; height: 1.5rem; display: inline-block; fill: #828282; padding-right: 5px; vertical-align: text-top; }
+a:hover .svg-icon { width: 2rem; height: 2rem; }
+ 

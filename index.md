@@ -5,9 +5,9 @@
 layout: page
 ---
 
-Hi! I am a theoretical condensed-matter physicist.
-I am primarily interested in understanding exotic phenomena, such as *fractionalisation*, brought about by strong electronic correlations in materials.
-I pursue this goal using analytical and computational techniques, including *neural quantum states* and other machine-learning tools.
+Hi! I am a theoretical condensed-matter physicist, interested in the exotic phenomena brought about by strong correlations between electrons in materials.
+
+I pursue these phenomena using a variety of analytical and computational techniques. I am particularly interested in machine-learning tools, such as neural quantum states. I also enjoy collaborating with experimental colleagues and have considerable experience with neutron-scattering studies of magnetism.
 
 Currently, I work as a postdoc at the [MPI-PKS](https://www.pks.mpg.de/) in Dresden.
 I will start as an Ambizione fellow at the [University of Zürich](https://www.physik.uzh.ch/) in September.

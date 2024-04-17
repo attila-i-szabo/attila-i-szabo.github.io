@@ -6,11 +6,17 @@ permalink: /research/
 
 #### [See below for a ~~non~~ less technical summary of my research interests ↓](#in-plain-english)
 
-My research focuses on **strongly-correlated-electron systems**, in which complex energy landscapes bring about such exotic properties as **fractionalised quasiparticles** and **topological order**, which makes these systems interesting platforms for **fault-tolerant quantum computing**.
-I am particularly interested in [**frustrated magnets**](/research/frustrated-magnet), in which competing interactions bring about unusual magnetic states, including **quantum spin liquids**.
+My research addresses challenging problems in *strongly-correlated-electron systems*.
+In particular, I am interested in the exotic phenomena brought about constrained dynamics in complex energy landscapes, such as *fractionalisation* and *topological order*.
+I pursue these problems using a broad range of analytical techniques, as well as cutting-edge computational tools, and also explore ways to transfer ideas between the two domains.
+I also collaborate frequently with experiments, especially *neutron-scattering* studies of magnetism.
 
-I study these problems with a broad range of approaches. 
+My research projects focus on two themes:
 
+* In *frustrated magnets*, competing interactions bring about unusual magnetic states. I am particularly interested in *spin liquids*, where frustration disrupts conventional ordering and brings about fractionalised quasiparticles coupled to emergent gauge fields.
+* Representing and working with many-body wave functions is a challenging task on a classical computer. I aim to solve this problem by encoding the wave function in a neural network. In particular, I focus on interference effects and symmetries in these *neural quantum states*. This has led to very powerful approaches for problems in magnetism; currently, I focus on extending them to systems of interacting electrons.
+
+Find out more about these themes below:
 
 {% include projects.html %}
 

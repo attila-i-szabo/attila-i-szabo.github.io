@@ -15,6 +15,7 @@ ul.projects {
 div.project_outer {
  position:relative;
  border-radius: .5rem;
+ overflow: hidden;
 }
 div.project_inner {
  position:absolute;

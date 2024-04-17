@@ -60,3 +60,6 @@ header_pages:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Remove tags from permalinks
+permalink: blog/:year/:month/:title

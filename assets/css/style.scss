@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+// Project list on main & research page
+
 ul.projects {
  display: grid;
  grid-template-columns: repeat(auto-fill,minmax(245px,1fr)); 
@@ -37,6 +39,8 @@ color: #111;
 }
 */
 
+// Socials
+
 .social-media-list li {
  float: left;
 }
@@ -48,3 +52,9 @@ color: #111;
 
 .img-icon { width: 24px; height: 24px; display: inline-block; padding-right: 10px; padding-left: 3px; padding-top: 3px; vertical-align: middle; }
 a:hover .img-icon { width: 30px; height: 30px; padding-right: 7px; padding-left: 0px; padding-top: 0px; }
+
+// Remove "Posts" from news page
+
+.post-list-heading {
+ display: none;
+}

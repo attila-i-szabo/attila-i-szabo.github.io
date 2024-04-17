@@ -23,7 +23,7 @@ author: Attila Szabó
 email: aszabo@pks.mpg.de
 description: >- # this means to ignore newlines until "baseurl:"
   A website about theoretical physics, exotic materials,
-  and machine learning.
+  and machine learning
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "attila-i-szabo.github.io"
 url: "https://attila-i-szabo.github.io" # the base hostname & protocol for your site, e.g. http://example.com

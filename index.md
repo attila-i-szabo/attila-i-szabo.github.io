@@ -16,4 +16,4 @@ I will start as an Ambizione fellow at the [University of Zürich](https://www.p
 
 {% include projects.html %}
 
-[See here for a ~~non~~ less technical summary of my research interests →](/research/#in-plain-english)
+#### [See here for a ~~non~~ less technical summary of my research interests →](/research/#in-plain-english)

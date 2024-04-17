@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-[See below for a ~~non~~ less technical summary of my research interests.](#in-plain-english)
+#### [See below for a ~~non~~ less technical summary of my research interests ↓](#in-plain-english)
 
 My research focuses on **strongly-correlated-electron systems**, in which complex energy landscapes bring about such exotic properties as **fractionalised quasiparticles** and **topological order**, which makes these systems interesting platforms for **fault-tolerant quantum computing**.
 I am particularly interested in [**frustrated magnets**](/research/frustrated-magnet), in which competing interactions bring about unusual magnetic states, including **quantum spin liquids**.

@@ -23,7 +23,9 @@ The parameters of these *variational ansätze* can be optimised to represent gro
 Building on the success of deep neural networks at representing images, language, and other types of information motivates using them as a variational ansatz.
 In such a *neural quantum state*, the network takes a computational basis state as its input and outputs its amplitude in the wave function $|\psi\rangle$.
 For example, a many-body spin-1/2 quantum state can be written in the $\sigma^z$ basis as
+
 $$ |\psi\rangle = \sum_{\sigma_1,\dots = \pm1} \psi(\sigma_1,\dots) |\sigma_1,\dots\rangle; $$
+
 the neural network is used to encode the function $\psi(\sigma_1,\dots)$.
 
 Neural quantum states have been used successfully for a variety of challenging problems in many-body quantum physics.

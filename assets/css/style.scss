@@ -9,7 +9,7 @@ ul.projects {
  display: grid;
  grid-template-columns: repeat(auto-fill,minmax(245px,1fr)); 
  grid-gap: 3rem; 
- margin: 2rem 0; 
+ margin: 1rem 0; 
  list-style-type: none;
 }
 div.project_outer {
@@ -58,4 +58,12 @@ a:hover .img-icon { width: 30px; height: 30px; padding-right: 7px; padding-left:
 
 .post-list-heading {
  display: none;
+}
+
+// Profile header
+.profile-header {
+ align-items: center;
+}
+.profile-picture {
+  border-radius: 9999px;
 }

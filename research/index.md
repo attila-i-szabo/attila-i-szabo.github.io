@@ -16,7 +16,7 @@ My research projects focus on two themes:
 * In *frustrated magnets*, competing interactions bring about unusual magnetic states. I am particularly interested in *spin liquids*, where frustration disrupts conventional ordering and brings about fractionalised quasiparticles coupled to emergent gauge fields.
 * Representing and working with many-body wave functions is a challenging task on a classical computer. I aim to solve this problem by encoding the wave function in a neural network. In particular, I focus on interference effects and symmetries in these *neural quantum states*. This has led to very powerful approaches for problems in magnetism; currently, I focus on extending them to systems of interacting electrons.
 
-Find out more about these themes below:
+#### Find out more about these themes below:
 
 {% include projects.html %}
 

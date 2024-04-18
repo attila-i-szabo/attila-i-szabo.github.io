@@ -5,6 +5,8 @@
 layout: page
 ---
 
+{% include profile.html %}
+
 Hi! I am a theoretical condensed-matter physicist, interested in the exotic phenomena brought about by strong correlations between electrons in materials.
 
 I pursue these phenomena using a variety of analytical and computational techniques. I am particularly interested in machine-learning tools, such as neural quantum states. I also enjoy collaborating with experimental colleagues and have considerable experience with neutron-scattering studies of magnetism.

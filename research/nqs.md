@@ -32,7 +32,7 @@ the neural network is used to encode the function $\psi(\sigma_1,\dots)$.
 
 Neural quantum states have been used successfully for a variety of challenging problems in many-body quantum physics.
 Nevertheless, it is a new method, with many open and challenging tasks to solve in order to bring out its full potential.
-I am interested in solving these problems, as well as exploiting these improvements to solve open problems in condensed-matter physics.
+I am interested in solving these problems, as well as exploiting the improvements to solve open problems in condensed-matter physics.
 
 ## NQS and the sign problem
 
@@ -77,9 +77,9 @@ GCNNs use *group-equivariant layers* to achieve this goal: these first map the i
 
 We have first applied the GCNN architecture to the $J_1-J_2$ Heisenberg model on the square and triangular lattices.
 Both of these models show a variety of ordered phases as well as a possible quantum spin liquid.
-On the square lattice, our approach has been the first purely neural-network architecture to attain lower variational energies than alternative variational techniques, on system sizes up to 16×16. We were also able to distinguish spin liquid and valence-bond solid phases by measuring dimer correlation functions.
+On the square lattice, our approach has been the first purely neural-network architecture to attain lower variational energies than alternative variational techniques, even on very large systems (up to 16×16 in this work). We were also able to distinguish spin liquid and valence-bond solid phases by measuring dimer correlation functions.
 
-[/blog/2022/11/gcnn](Read more about this project →)
+[Read more about this project →](/blog/2022/11/gcnn)
 
 ### Molecular magnets
 
@@ -87,8 +87,18 @@ Together with [Sylvain Capponi](https://www.lpt.ups-tlse.fr/spip.php?article22&l
 We were again able to attain excellent variational energies for both the ground state and excited states in different symmetry sectors.
 Even though the structure is highly frustrated, we found that the ground-state correlation functions show precursors of *noncollinear magnetic order*, which are also reflected in the low-energy spectrum as a *tower of states*.
 
-[/blog/2023/11/fullerene](Read more about this project →)
+[Read more about this project →](/blog/2023/11/fullerene)
 
 ## NQS for interacting fermions
+
+I am currently interested in extending these ideas to systems of interacting electrons, such as the Hubbard model used to describe high-temperature superconductivity in the cuprates.
+This poses an extra challenge due to the exchange antisymmetry of fermion wave functions.
+In practice, imposing this antisymmetry requires the use of Pfaffians or determinants, which generalise mean-field wave functions for superconductors and the normal state, respectively.
+Neural networks can be used to make the entries of the determinant or the Pfaffian depend on the electron positions, thereby introducing correlations in a flexible way.
+Such approaches, under the names [FermiNet](https://arxiv.org/abs/1909.02487) and [PauliNet](https://arxiv.org/abs/1909.08423), have shown great results for problems in quantum chemistry.
+
+I work on extending these methods to lattice problems, especially by using group convolutional networks to construct symmetric wave functions at moderate computational cost.
+However, the fact that fermionic ansätze usually dress a mean-field state make it challenging to represent phases that break these symmetries spontaneously.
+Surmounting this challenge will allow us to study the low-energy spectrum of Hubbard-type models, which will open a new direction to understand their quantum phases.
 
 ## Open-source software: NetKet

@@ -5,11 +5,13 @@ permalink: /research/nqs
 use_math: true
 ---
 
-### Table of contents
+### Contents
 
 - [Introduction](#introduction)
 - [Sign problem](#nqs-and-the-sign-problem)
-- [Symmetries](#symmetries-in-nqs)
+- [Group convolutional networks](#group-convolutional-networks)
+    - [Lattice magnets](#lattice-magnetism)
+    - [Molecular magnets](#molecular-magnets)
 - [NQS for interacting fermions](#nqs-for-interacting-fermions)
 - [Open-source software: NetKet](#open-source-software-netket)
 
@@ -49,7 +51,43 @@ I found later that writing the wave function as a sum of terms allows tracking d
 This allowed us to obtain [excellent wave functions for such highly frustrated magnets](https://arxiv.org/abs/2211.07749) as the $J_1-J_2$ Heisenberg model on the square and triangular lattices.
 Nevertheless, the sign structures of [fermion wave functions](#nqs-for-interacting-fermions) is considerably more complex, requiring more sophisticated approaches.
 
-## Symmetries in NQS
+## Group convolutional networks
+
+The lattice Hamiltonians studied in condensed-matter physics have many symmetries, which are also respected by their eigenstates.
+Imposing these symmetries on a variational ansatz simplifies the training procedure by avoiding states with different symmetry quantum numbers, so we can reach lower variational energies and more accurate ground state wave functions.
+Furthermore, by imposing different symmetry quantum numbers, we can resolve a number of low-energy states, including [*(Anderson) towers of states*](https://arxiv.org/abs/1704.08622), which provide a qualitative signature of ordering already for small systems.
+By extending this method to system sizes that are too large for exact diagonalisation, we can open a new angle on studying quantum phases and transitions.
+
+Together with [Chris Roth](https://scholar.google.com/citations?user=YGOQvqwAAAAJ), we introduced *group-convolutional neural networks* (GCNNs) to impose arbitrary spatial symmetries on NQS ansätze.
+In a standard *convolutional neural network*, every layer is structured as a replica of the input geometry, and mapping from one layer to the next is identical for all lattice sites.
+As a result, the whole network is *translation equivariant:* translating its input translates the entries of all subsequent layers by the same amount.
+The last layer in particular can be viewed as an NQS ansatz $\psi_0$ evaluated for all translated copies of the input:
+summing these gives a fully translation-symmetric state, while including phase factors $e^{ik\cdot r}$ allows representing states with any given wave vector $k$.
+
+![Convolutional neural networks impose translation symmetry.](/assets/img/cnn.png)
+
+[Group convolutional networks](https://arxiv.org/abs/1602.07576) generalise this idea to an arbitrary symmetry group.
+We now need to evaluate $\psi_0$ for all symmetry-related inputs: since there is one of these for every element of the symmetry group, it makes sense to lay them out according to the geometry of the group.
+In particular, if we act on the input with a symmetry element, the entries of all subsequent layers are relabelled according to group multiplication.
+GCNNs use *group-equivariant layers* to achieve this goal: these first map the input lattice to such group-shaped features, then those to one another.
+
+![Group convolutional networks generalise the idea to arbitrary spatial symmetries.](/assets/img/gcnn.png)
+
+### Lattice magnetism
+
+We have first applied the GCNN architecture to the $J_1-J_2$ Heisenberg model on the square and triangular lattices.
+Both of these models show a variety of ordered phases as well as a possible quantum spin liquid.
+On the square lattice, our approach has been the first purely neural-network architecture to attain lower variational energies than alternative variational techniques, on system sizes up to 16×16. We were also able to distinguish spin liquid and valence-bond solid phases by measuring dimer correlation functions.
+
+[/blog/2022/11/gcnn](Read more about this project →)
+
+### Molecular magnets
+
+Together with [Sylvain Capponi](https://www.lpt.ups-tlse.fr/spip.php?article22&lang=fr) and [Fabien Alet](https://www.lpt.ups-tlse.fr/spip.php?article20&lang=fr), we have deployed this method to Heisenberg models on fullerene geometries, which, unlike lattice problems, have no translation symmetry.
+We were again able to attain excellent variational energies for both the ground state and excited states in different symmetry sectors.
+Even though the structure is highly frustrated, we found that the ground-state correlation functions show precursors of *noncollinear magnetic order*, which are also reflected in the low-energy spectrum as a *tower of states*.
+
+[/blog/2023/11/fullerene](Read more about this project →)
 
 ## NQS for interacting fermions
 

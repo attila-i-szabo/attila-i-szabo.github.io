@@ -2,7 +2,7 @@
 layout: post
 title:  "Work with me!"
 date:   2024-04-22 11:00:00 +0100
-categories: hiring
+categories: jobs
 ---
 
 I am looking for *one PhD student* to work with me on my Ambizione project *"Topological phases and phase transitions in frustrated magnets"*.

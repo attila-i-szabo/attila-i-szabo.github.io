@@ -15,7 +15,7 @@ Currently, I work as a postdoc at the [MPI-PKS](https://www.pks.mpg.de/) in Dres
 I will start as an Ambizione fellow at the [University of Zürich](https://www.physik.uzh.ch/) in September.
 
 <div class="hiring">
-<p>I am looking for a PhD student, see <a href="/blog/2024/04/im-hiring">here</a> for details!</p>
+<p>I am looking for a PhD student, see <a href="/blog/2024/04/work-with-me">here</a> for details!</p>
 </div>
 
 ## [Research directions](/research/)

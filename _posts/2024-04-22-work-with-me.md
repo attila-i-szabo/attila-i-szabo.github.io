@@ -12,7 +12,7 @@ I am looking for *one PhD student* to work with me on my Ambizione project *"Top
 The project covers a broad range of topics in *strongly-correlated-electron physics*, centring on the physics of *quantum spin liquids*.
 As a PhD student, you will study these topics computationally, using *neural quantum states* and/or *tensor networks*, as well as push the limits of these methods.
 Within this broad outline, you will have considerable freedom to shape your project according to your interests.
-You will also have the opportunity to gain expertise in the theoretical ideas and analytical tools behind the computational techniques, collaboration with condensed-matter experiments, and machine-learning skills that are valuable both inside and outside of academic research.
+You will also have the opportunity to gain expertise in the theoretical ideas and analytical tools behind the computational techniques, collaborate with condensed-matter experiments, and acquire machine-learning skills that are valuable both inside and outside of academic research.
 
 The project is based at the [University of Zürich Physics Institute](https://www.physik.uzh.ch/), under the official supervision of [Prof. Titus Neupert](https://www.physik.uzh.ch/en/groups/neupert/).
 In addition to our vibrant group, excellent potential collaborators at ETH Zürich and the Paul Scherrer Institute are within easy reach.

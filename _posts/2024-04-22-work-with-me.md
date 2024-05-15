@@ -18,7 +18,7 @@ The project is based at the [University of Zürich Physics Institute](https://ww
 In addition to our vibrant group, excellent potential collaborators at ETH Zürich and the Paul Scherrer Institute are within easy reach.
 You will also be embedded in national and international collaborations.
 
-The PhD position comes with 4 years of funding, starting from September 2024. The competitive salary follows the University of Zürich salary scheme for PhD positions; travel funding for conferences etc. will also be available. The University of Zürich is committed to gender equality and diversity.
+The PhD position comes with 4 years of funding, starting from September 2024 (the starting date may be delayed if needed). The competitive salary follows the University of Zürich salary scheme for PhD positions; travel funding for conferences etc. will also be available. The University of Zürich is committed to gender equality and diversity.
 
 ### Requirements
 
@@ -26,7 +26,7 @@ The PhD position comes with 4 years of funding, starting from September 2024. Th
 
 * Motivation to solve challenging problems in condensed-matter physics using computational and analytical tools
 * Excellent communication and teamwork skills
-* Master's degree in condensed-matter physics or a related field (to be completed by 31 August 2024)
+* Master's degree in condensed-matter physics or a related field
 
 #### Desirable
 
@@ -44,5 +44,4 @@ Please send the following to [aszabo@pks.mpg.de](mailto:aszabo@pks.mpg.de) (subj
 
 Please also arrange for two confidential letters of recommendation to be sent to [aszabo@pks.mpg.de](mailto:aszabo@pks.mpg.de) (subject line: "PhD reference [candidate's name]"). At least one of these should be written by a research (e.g., master's thesis) supervisor.
 
-To receive full consideration, all application materials should be submitted by **12 May**.
-However, applications sent after this date will also be considered until the position is filled.
+Applications will be considered continuously until the position is filled.

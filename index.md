@@ -14,11 +14,7 @@ I pursue these phenomena using a variety of analytical and computational techniq
 Currently, I work as a postdoc at the [MPI-PKS](https://www.pks.mpg.de/) in Dresden.
 I will start as an Ambizione fellow at the [University of Zürich](https://www.physik.uzh.ch/) in September.
 
-<div class="hiring">
-<p>I am looking for a PhD student, see <a href="/blog/2024/04/work-with-me">here</a> for details!</p>
-</div>
-
-## [Research directions](/research/)
+## [Research directions →](/research/)
 
 {% include projects.html %}
 

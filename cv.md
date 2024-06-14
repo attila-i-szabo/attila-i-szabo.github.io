@@ -22,6 +22,10 @@ permalink: /cv/
 My publication list is always up to date on [arXiv](https://arxiv.org/a/szabo_a_1.html).
 Publication years here match the arXiv posting rather than journal publication.
 
+### 2024
+
+* A. Szabó, S. A. Grigera, P. C. W. Holdsworth, et al. *Perfectly hidden order and Z<sub>2</sub> confinement transition in a fully packed monopole liquid.* [arXiv](https://arxiv.org/abs/2406.09336)
+
 ### 2023
 
 * A. Szabó, S. Capponi, F. Alet. *Noncoplanar and chiral spin states on the way towards Néel ordering in fullerene Heisenberg models.* [Phys. Rev. B *(Editors' Suggestion)*](https://doi.org/10.1103/PhysRevB.109.054410) [arXiv](https://arxiv.org/abs/2311.01496)

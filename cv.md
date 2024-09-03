@@ -6,7 +6,8 @@ permalink: /cv/
 
 ## Work experience
 
-* **2023-:** Postdoc, [Max Planck Institute for the Physics of Complex Systems, Dresden](https://www.pks.mpg.de/)
+* **2024-:** Ambizione fellow (junior group leader), [University of Zürich](https://www.physik.uzh.ch/)
+* **2023-2024:** Postdoc, [Max Planck Institute for the Physics of Complex Systems, Dresden](https://www.pks.mpg.de/)
 * **2020-2023:** Keeley-Rutherford Junior Research Fellow, [University of Oxford](https://www.physics.ox.ac.uk/) and [Rutherford Appleton Laboratory](https://www.isis.stfc.ac.uk/)
 
 ## Education

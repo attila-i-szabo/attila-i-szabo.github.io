@@ -37,7 +37,7 @@ plugins:
   - jekyll-feed
   
 header_pages:
-  - cv.md
+  - cv/index.md
   - research/index.md
   - news.md
 

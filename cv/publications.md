@@ -1,31 +1,22 @@
 ---
 layout: page
-title: CV
-permalink: /cv/
+title: Publications
+permalink: /cv/publications
 ---
-
-## Work experience
-
-* **2024-:** Ambizione fellow (junior group leader), [University of Zürich](https://www.physik.uzh.ch/)
-* **2023-2024:** Postdoc, [Max Planck Institute for the Physics of Complex Systems, Dresden](https://www.pks.mpg.de/)
-* **2020-2023:** Keeley-Rutherford Junior Research Fellow, [University of Oxford](https://www.physics.ox.ac.uk/) and [Rutherford Appleton Laboratory](https://www.isis.stfc.ac.uk/)
-
-## Education
-
-[Trinity College](https://www.trin.cam.ac.uk/), [University of Cambridge](https://www.phy.cam.ac.uk/)
-
-* **2017-2020:** PhD in the [Theory of Condensed Matter Group](https://www.tcm.phy.cam.ac.uk/), supervised by [Claudio Castelnovo](https://www.tcm.phy.cam.ac.uk/profiles/cc726/)
-* **2016-2017:** MSci, project supervised by [Ulrich Schneider](https://www.manybody.phy.cam.ac.uk/)
-* **2013-2016:** BA in Natural Sciences (Physics)
-
-## Publications
 
 My publication list is always up to date on [arXiv](https://arxiv.org/a/szabo_a_1.html).
 Publication years here match the arXiv posting rather than journal publication.
 
+### 2025
+
+* S. H. Hille, A. Szabó. *TeMFpy: a Python library for converting fermionic mean-field states into tensor networks.* [arXiv](https://arxiv.org/abs/2510.05227)
+* T. J. Hicken, P. Meadows, D. Prabhakaran, A. Szabó, et al. *Intrinsic disorder in the candidate quantum spin ice Pr<sub>2</sub>Zr<sub>2</sub>O<sub>7</sub>.* [arXiv](https://arxiv.org/abs/2509.10101)
+* A. Szabó. *Generalised Burnside and Dixon algorithms for irreducible projective representations.* [arXiv](https://arxiv.org/abs/2505.14790)
+
 ### 2024
 
-* A. Szabó, S. A. Grigera, P. C. W. Holdsworth, et al. *Perfectly hidden order and Z<sub>2</sub> confinement transition in a fully packed monopole liquid.* [arXiv](https://arxiv.org/abs/2406.09336)
+* A. Szabó. *Rainbow chains and numerical renormalisation group for accurate chiral conformal spectra.* [SciPost](https://doi.org/10.21468/SciPostPhys.19.3.075) [arXiv](https://arxiv.org/abs/2412.09685)
+* A. Szabó, S. A. Grigera, P. C. W. Holdsworth, et al. *Hidden order and Z<sub>2</sub> confinement transition in a fully packed monopole liquid.* [Phys. Rev. B](https://doi.org/10.1103/m7ck-5bz2) [arXiv](https://arxiv.org/abs/2406.09336)
 
 ### 2023
 

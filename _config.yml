@@ -39,6 +39,7 @@ plugins:
 header_pages:
   - cv/index.md
   - research/index.md
+  - work-with-me/index.md
   - news.md
 
 # Exclude from processing.

@@ -16,10 +16,10 @@ I currently offer the following project topics:
 - Classification of topological phases with neural networks
 - Anderson-Higgs mechanism in quantum spin liquids
 - Tensor networks for complex orders *(with Juraj Hasik)*
-- Neural-network wave functions for fermions *(with Dan Mao and Simon Hille)*
 
 #### Bachelor/semester projects
 
-- Matrix product states for the Kitaev honeycomb model *(with Simon Hille)*
+- ~~Matrix product states for the Kitaev honeycomb model *(with Simon Hille)*~~
+- ~~Neural-network wave functions for fermions *(with Dan Mao and Simon Hille)*~~
 
 If any of [my recent work](/cv/publications) particularly interests you, we may also invent a new project based on that.
